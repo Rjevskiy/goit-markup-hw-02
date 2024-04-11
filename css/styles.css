@@ -86,12 +86,14 @@ button {cursor: pointer;}
 .ourteam-h{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height:1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;} 
     
+.ourteam-menu{background-color:#FFFFFF;}
+
 .ourteam-item{
     font-weight: 500;
     font-size: 20px;
@@ -105,9 +107,7 @@ button {cursor: pointer;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;}    
-
-.ourteam-menu{background-color: #FFFFFF;}    
+    text-align: center;}        
 
 .op-h{
     font-weight: 700;
