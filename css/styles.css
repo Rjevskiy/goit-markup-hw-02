@@ -9,13 +9,13 @@ button {cursor: pointer;}
 
 .page-header{ line-height: 1.17;}
 
-.logo{font-weight: 700;
+.logo{font-family:"Raleway",sans-serif;font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;}
-.logo-text-raleway{color: #4d5ae5;}
+    color: #4d5ae5;}
+.logo-text-roboto{color: #2e2f42;}
 
 .menu-link:hover, 
 .menu-link:focus{
