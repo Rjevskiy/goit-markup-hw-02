@@ -41,7 +41,7 @@ button {cursor: pointer;}
     color: #404bbf;}
 
 
-.address-page{color: #434455;font-style: normal;}
+.address-page{line-height: 1.5;font-style: normal;color: #434455;}
 
 .address-item{font-weight: 400;
     font-size: 16px;
