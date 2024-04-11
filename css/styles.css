@@ -133,7 +133,7 @@ button {cursor: pointer;}
 
 .footer-hage{
     color: #4d5ae5;
-    line-height:1.17;
+    line-height: 1.17;
     background: #2e2f42;}    
 
 .footer-logo{font-family: "Raleway", sans-serif;
@@ -144,7 +144,7 @@ button {cursor: pointer;}
     text-transform: uppercase;
     color: #f4f4fd;}
     
-.footer-logo-roboto{color: #4d5ae5;}
+.footer-logo-raleway{color: #4d5ae5;}
     
 .footer-item{
     font-weight: 400;
