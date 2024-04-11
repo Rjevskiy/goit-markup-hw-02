@@ -5,7 +5,9 @@ a {text-decoration: none;}
 
 button {cursor: pointer;}
 
-.logo{font-family: "Raleway", sans-serif;
+.page-body{font-family: "Roboto", sans-serif;background: #FFFFFF;color: #434455;}
+
+.logo{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16667;
@@ -15,7 +17,7 @@ button {cursor: pointer;}
 .logo-text-raleway{color: #4d5ae5;}
 
 .menu-link:hover, 
-.menu-link:focus{font-family: "Roboto", sans-serif;
+.menu-link:focus{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -23,7 +25,7 @@ button {cursor: pointer;}
     color: #404bbf;}
 
 .address-link:hover,   
-.address-link:focus{font-family: "Roboto", sans-serif;
+.address-link:focus{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -31,7 +33,7 @@ button {cursor: pointer;}
     color: #404bbf;}
 
 
-.menu-link{font-family: "Roboto", sans-serif;
+.menu-link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -41,12 +43,9 @@ button {cursor: pointer;}
 .address-link{font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}   
+    letter-spacing: 0.02em;}   
 
-.hero-page{font-family: "Roboto", sans-serif;
-    width: 1440px;
-    height: 600px;
+.hero-page{
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -56,8 +55,6 @@ button {cursor: pointer;}
  
 .button-item{border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
-    height: 56px;
     background: #4d5ae5;
     color: #fff;}
 
@@ -66,23 +63,22 @@ button {cursor: pointer;}
 
 .benefits-page{}    
 
-.benefits-item{font-family: "Roboto", sans-serif;
+.benefits-item{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
-.benefits-link{font-family: "Roboto", sans-serif;
+.benefits-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
+    letter-spacing: 0.02em;}
 
 .ourteam-page{background: #f4f4fd;}    
 
-.ourteam-h{font-family: "Roboto", sans-serif;
+.ourteam-h{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -91,7 +87,7 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;} 
     
-.ourteam-item{font-family: "Roboto", sans-serif;
+.ourteam-item{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -99,16 +95,14 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;}    
 
-.ourteam-link{font-family: "Roboto", sans-serif;
+.ourteam-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
-    color: #434455;}    
+    text-align: center;}    
 
-.footer-hage{width: 1440px;
-    height: 312px;background: #2e2f42;}    
+.footer-hage{background: #2e2f42;}    
 
 .footer-logo{font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -120,14 +114,14 @@ button {cursor: pointer;}
 
 .footer-logo-raleway{color: #4d5ae5;}
 
-.footer-item{font-family: "Roboto", sans-serif;
+.footer-item{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
 
-.op-h{font-family: "Roboto", sans-serif;
+.op-h{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -136,16 +130,18 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;}    
 
-.op-item{font-family: "Roboto", sans-serif;
+.op-item{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}  
 
-.op-link{font-family: "Roboto", sans-serif;
+.op-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}    
+    letter-spacing: 0.02em;}    
+
+
+    
