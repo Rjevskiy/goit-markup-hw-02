@@ -58,7 +58,10 @@ button {cursor: pointer;}
     color: #fff;} 
  
 .button-item{background: #4d5ae5;
-    color: #fff; font-weight: 500;letter-spacing: 0.04em; line-height: 1.5}
+    color: #fff;
+    font-weight:500;
+    letter-spacing:0.04em;
+    line-height:1.5;}
 
 .button-item:hover,
 .button-item:focus{background: #404bbf;}        
