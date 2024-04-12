@@ -91,8 +91,8 @@ button {cursor: pointer;}
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;} 
-    
-.ourteam-img{background-color:#FFFFFF;}
+   
+ourteam-menu{background-color:#FFFFFF;}
 
 .ourteam-item{
     font-weight: 500;
@@ -100,13 +100,13 @@ button {cursor: pointer;}
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;}    
-
+/*
 .ourteam-link{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}       
-
+*/
 .op-h{
     font-weight: 700;
     font-size: 36px;
