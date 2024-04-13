@@ -93,12 +93,12 @@ button {cursor: pointer;}
     text-align: center;
     color: #2e2f42;} 
    
-ourteam-li{background-color:#FFFFFF;}
+ourteam-img{background-color:#FFFFFF;}
 
 .ourteam-item{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}    
 /*
