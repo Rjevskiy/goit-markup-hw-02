@@ -82,12 +82,12 @@ button {cursor: pointer;}
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
-/*.ourteam-page{background: #f4f4fd;}*/    
+.ourteam-page{background: #f4f4fd;}  
 
 .ourteam-h{
     font-weight: 700;
     font-size: 36px;
-    line-height:1.2;
+    line-height:1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
